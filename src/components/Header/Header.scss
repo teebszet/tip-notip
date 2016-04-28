@@ -1,4 +1,8 @@
-.activeRoute {
-  font-weight: bold;
-  text-decoration: underline;
+header, .full_width {
+    position: relative; /* child absolute */
+    margin: 0;
+    padding: 1rem;
+    background: #42647F;
+    color: white;
+    text-align: center;
 }
